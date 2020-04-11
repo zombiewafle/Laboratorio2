@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Laboratorio2</string>
+    <string name="ingrese_su_altura_cm">Ingrese su altura (cm) </string>
+    <string name="ingrese_su_peso_lb">Ingrese su peso (lb) </string>
+    <string name="Procesar_Button">Procesar</string>
+    <string name="IMC_bajo">IMC bajo</string>
+    <string name="IMC_normal">IMC normal</string>
+    <string name="IMC_alto">IMC alto</string>
+    <string name="Calculando">Calculando...</string>
+    <string name="todo">TODO</string>
+    <string  name="condicion">Llene correctamente los espacios</string>
+
+</resources>
